@@ -1,4 +1,4 @@
-veronica_angry:obsessive.png
+veronica_angry_obsessive.png
 veronica_annoyed.png
 veronica_neutral.png
 veronica_possessive.png
