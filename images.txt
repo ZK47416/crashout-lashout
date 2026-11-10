@@ -1,0 +1,12 @@
+veronica_angry:obsessive.png
+veronica_annoyed.png
+veronica_neutral.png
+veronica_possessive.png
+veronica_pouty.png
+veronica_shocked.png
+veronica_smiling.png
+veronica_sorrow.png
+veronica_surprised.png
+veronica_unhinged.png
+veronica_warm.png
+veronica_yandere.png
