@@ -8,3 +8,12 @@ veronica_sad.png
 veronica_shocked.png
 veronica_unhinged.png
 veronica_yandere.png
+lucien_alert.png
+lucien_angry.png
+lucien_annoyed.png
+lucien_cocky.png
+lucien_dismissive.png
+lucien_enraged.png
+lucien_happy.png
+lucien_neutral.png
+lucien_sad.png
